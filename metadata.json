@@ -1,0 +1,6 @@
+{
+  "name": "Vicky",
+  "description": "Personal AI assistant for events, hackathons, Google Calendar, and multi-account Gmail scanning.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
